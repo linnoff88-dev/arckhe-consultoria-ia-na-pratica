@@ -1,0 +1,167 @@
+[
+ {
+  "chapter": "Abertura",
+  "title": "Por onde eu começo?",
+  "kind": "hook",
+  "labels": [
+   "o cliente não pede um agente",
+   "\"por onde eu começo?\"",
+   "resposta de ferramenta = perde o cliente",
+   "consultoria de IA em 2027"
+  ],
+  "takeaway": "O cliente não quer ferramenta: quer saber por onde começar.",
+  "source": "https://inema.club",
+  "speech": "O seu próximo cliente não vai te pedir um agente. Ele vai te perguntar: por onde eu começo? E se você responder falando de ferramenta, ele agradece, desliga e pergunta para o próprio ChatGPT. Neste vídeo eu quero mostrar, na prática, o que é consultoria de IA e como você se prepara agora para trabalhar com isso em 2027."
+ },
+ {
+  "chapter": "O que é",
+  "title": "Consultoria não é vender ferramenta",
+  "kind": "compare",
+  "labels": [
+   "não é vender ferramenta",
+   "não é montar chatbot",
+   "não é instalar o agente da moda",
+   "é achar o problema que trava o resultado"
+  ],
+  "takeaway": "IA é a caixa de ferramentas, não a descrição do trabalho.",
+  "source": "https://eventos.inema.pro/consultoria-ia/",
+  "speech": "Consultoria de IA não é vender ferramenta. Não é montar chatbot. E não é instalar o agente da moda. Consultoria é entrar no negócio do cliente, achar o problema que realmente trava o resultado e prescrever a solução mais simples que resolve. A IA é a sua caixa de ferramentas. Não é a descrição do seu trabalho."
+ },
+ {
+  "chapter": "Dois chapéus",
+  "title": "Consultor e mentor",
+  "kind": "compare",
+  "labels": [
+   "consultor: diz o que fazer",
+   "o que vai para a pessoa",
+   "o que vai para o agente",
+   "mentor: o cliente faz sozinho"
+  ],
+  "takeaway": "Em 2027 você usa os dois chapéus: consultor e mentor.",
+  "source": "https://eventos.inema.pro/consultoria-ia/",
+  "speech": "E em 2027 você vai usar dois chapéus. O consultor diz o que fazer: qual processo mexer primeiro, o que vai para a pessoa, o que vai para o agente. O mentor faz o cliente conseguir fazer sozinho. Porque o cliente vai querer construir os próprios projetos com IA. Você pode brigar contra isso, ou pode ser quem ajuda ele a construir certo. Quem ensina vira a referência dentro da empresa."
+ },
+ {
+  "chapter": "Método",
+  "title": "Passos 1 e 2: conversa e diagnóstico",
+  "kind": "steps",
+  "labels": [
+   "1. conversa: perguntas antes da ferramenta",
+   "tempo · dinheiro · erro · quem decide",
+   "2. diagnóstico de uma página",
+   "fica com a pessoa",
+   "vai para um agente",
+   "automação simples",
+   "deixa de existir"
+  ],
+  "takeaway": "Primeiro perguntas, depois um diagnóstico de uma página com quatro colunas.",
+  "source": "https://eventos.inema.pro/consultoria-ia/",
+  "speech": "Então como é uma consultoria na prática? Cinco passos. Primeiro: a conversa. Antes de qualquer ferramenta, perguntas. O que toma mais tempo da equipe? Onde o negócio perde dinheiro? Onde acontece mais erro? Quem decide o quê? Segundo: o diagnóstico de uma página. O processo, o gargalo e quatro colunas: isto fica com a pessoa, isto vai para um agente, isto é automação simples, e isto deveria deixar de existir."
+ },
+ {
+  "chapter": "Método",
+  "title": "Passos 3 a 5: solução, piloto, ensino",
+  "kind": "steps",
+  "labels": [
+   "3. a solução mais simples",
+   "automação sem IA quando resolve",
+   "4. piloto pequeno",
+   "critério de sucesso combinado antes",
+   "5. ensinar e acompanhar",
+   "contrato que não acaba na entrega"
+  ],
+  "takeaway": "Solução simples, piloto com critério combinado e acompanhamento mês a mês.",
+  "source": "https://eventos.inema.pro/consultoria-ia/",
+  "speech": "Terceiro: a solução mais simples. Comece pela base. Se uma automação sem IA resolve, ótimo: é mais barata e mais confiável. Agente só quando o problema exige. Quarto: um piloto pequeno, com o critério de sucesso combinado antes de começar. Assim ninguém discute depois se deu certo. E quinto: ensinar e acompanhar. A equipe aprende a usar, você mede o resultado e ajusta mês a mês. É aqui que nasce o contrato que não acaba na entrega."
+ },
+ {
+  "chapter": "Exemplo",
+  "title": "A clínica que perde consultas",
+  "kind": "diagram",
+  "labels": [
+   "problema: paciente falta",
+   "lembrete = automação simples",
+   "remarcar = agente",
+   "encaixe = recepção decide",
+   "três peças no lugar certo"
+  ],
+  "takeaway": "Cada peça no lugar certo: automação, agente e pessoa.",
+  "source": "https://eventos.inema.pro/consultoria-ia/",
+  "speech": "Um exemplo. Uma clínica reclama que perde consultas porque o paciente falta. A tentação é vender um agente de atendimento completo. Mas o diagnóstico mostra outra coisa: o lembrete da consulta é automação simples, não precisa de agente. O agente entra para conversar com quem quer remarcar. E o encaixe na agenda continua sendo decisão da recepção. Três peças, cada uma no lugar certo. Isso é consultoria."
+ },
+ {
+  "chapter": "Preparação",
+  "title": "Como se preparar: movimentos 1 a 3",
+  "kind": "steps",
+  "labels": [
+   "1. escolha um setor",
+   "como ele ganha e perde dinheiro",
+   "2. primeira consultoria em você mesmo",
+   "3. monte o seu kit",
+   "perguntas · diagnóstico · proposta"
+  ],
+  "takeaway": "Setor, primeira consultoria sem cobrar e um kit próprio.",
+  "source": "https://eventos.inema.pro/consultoria-ia/",
+  "speech": "E como você se prepara? Cinco movimentos. Um: escolha um setor e aprenda como ele ganha e perde dinheiro. Dois: faça a primeira consultoria em você mesmo, ou num negócio que você conhece. Sem cobrar, para aprender. Três: monte o seu kit. Um roteiro de perguntas, um modelo de diagnóstico de uma página e um modelo de proposta."
+ },
+ {
+  "chapter": "Preparação",
+  "title": "Como se preparar: movimentos 4 e 5",
+  "kind": "steps",
+  "labels": [
+   "4. aprenda gestão de agentes",
+   "objetivo · contexto · limites",
+   "avaliação · supervisão",
+   "5. explique para quem não é técnico",
+   "se o dono não entende, não compra"
+  ],
+  "takeaway": "Gestão de agentes e saber explicar para quem não é técnico.",
+  "source": "https://inematds.github.io/curso-7pa/",
+  "speech": "Quatro: aprenda gestão de agentes, porque é isso que você vai ensinar ao cliente: objetivo, contexto, limites de autonomia, avaliação e supervisão. E cinco: treine explicar tudo isso para quem não é técnico. Se o dono do negócio não entende o seu diagnóstico, ele não compra."
+ },
+ {
+  "chapter": "Erros",
+  "title": "Os três erros que derrubam",
+  "kind": "steps",
+  "labels": [
+   "começar pela ferramenta",
+   "prometer sem combinar a medida",
+   "deixar o cliente dependente",
+   "mentor bom deixa o cliente mais forte"
+  ],
+  "takeaway": "Mentor bom deixa o cliente mais forte, não mais dependente.",
+  "source": "https://inema.club",
+  "speech": "E fuja de três erros. Começar pela ferramenta. Prometer resultado sem combinar como vai medir. E fazer tudo pelo cliente, até ele depender de você para qualquer coisa. Mentor bom deixa o cliente mais forte, não mais dependente."
+ },
+ {
+  "chapter": "Onde aprender",
+  "title": "Área Consultoria de IA",
+  "kind": "concept",
+  "labels": [
+   "área Consultoria de IA",
+   "curso Consultor de IA",
+   "Do Zero ao Primeiro Cliente",
+   "Gestão de Agentes",
+   "kit Raio-X de Margem",
+   "aberto e gratuito"
+  ],
+  "takeaway": "Tudo aberto e gratuito na área Consultoria de IA.",
+  "source": "https://eventos.inema.pro/consultoria-ia/",
+  "speech": "Para começar, nós montamos a área Consultoria de IA no eventos do INEMA. Lá estão os quatro papéis, o método, o curso Consultor de IA, a formação Do Zero ao Primeiro Cliente, o curso de Gestão de Agentes e kits abertos para usar com o cliente, como o Raio-X de Margem, que mostra em reais onde o negócio perde dinheiro. Tudo aberto e gratuito, no INEMA ponto club."
+ },
+ {
+  "chapter": "Fechamento",
+  "title": "Comece esta semana",
+  "kind": "cta",
+  "labels": [
+   "o cliente terá o mesmo agente",
+   "não terá clareza",
+   "perguntas certas + diagnóstico de uma página",
+   "comece esta semana",
+   "eventos.inema.pro/consultoria-ia"
+  ],
+  "takeaway": "Seu primeiro trabalho: um diagnóstico de uma página.",
+  "source": "https://eventos.inema.pro/consultoria-ia/",
+  "speech": "Em 2027, o cliente vai ter o mesmo agente que você. O que ele não vai ter é clareza. Quem chega com as perguntas certas, um diagnóstico de uma página e paciência para ensinar, vira parceiro. Então comece esta semana: escolha um negócio, faça as perguntas da conversa e escreva o diagnóstico em uma página. Esse é o seu primeiro trabalho de consultoria."
+ }
+]
