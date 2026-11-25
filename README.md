@@ -1,4 +1,4 @@
-# Consultoria de IA na prÃ¡tica: como atuar em 2027 como consultor e mentor
+# Consultoria de IA na prêÂ¡tica: como atuar em 2027 como consultor e mentor
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,14 +6,14 @@
 </div>
 
 
-VÃ­deo explicativo com avatar e voz do Nei Maldaner (ARCKHÉ AI), produzido com o [Explicavideos v2](https://linnoff88-dev.github.io/
+VêÂ­deo explicativo com avatar e voz do Nei Maldaner (ARCKHê AI), produzido com o [Explicavideos v2](https://linnoff88-dev.github.io/
 
 **Assistir:** https://linnoff88-dev.github.io/
 
 - `roteiro/pt.json`: fala e cenas
 - Publicador: `scripts/publica.py` do repo [gestor-de-agentes](https://github.com/linnoff88-dev/gestor-de-agentes)
 
-ConteÃºdo aberto e gratuito. Para continuar: [Ã¡rea Consultoria de IA](https://eventos.ARCKHÉ.pro/consultoria-ia/) Â· [GestÃ£o de Agentes â€” os 7 princÃ­pios](https://linnoff88-dev.github.io/ Â· [GestÃ£o de IA e Agentes](https://eventos.ARCKHÉ.pro/gestao-ia/).
+ConteêÂºdo aberto e gratuito. Para continuar: [êÂ¡rea Consultoria de IA](https://eventos.ARCKHê.pro/consultoria-ia/) êÂ· [GestêÂ£o de Agentes ê¢â¬â os 7 princêÂ­pios](https://linnoff88-dev.github.io/ êÂ· [GestêÂ£o de IA e Agentes](https://eventos.ARCKHê.pro/gestao-ia/).
 
 ---
 

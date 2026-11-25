@@ -1,34 +1,34 @@
 [
  {
   "chapter": "Abertura",
-  "title": "Por onde eu comeÃ§o?",
+  "title": "Por onde eu começo?",
   "kind": "hook",
   "labels": [
-   "o cliente nÃ£o pede um agente",
-   "\"por onde eu comeÃ§o?\"",
+   "o cliente nêo pede um agente",
+   "\"por onde eu começo?\"",
    "resposta de ferramenta = perde o cliente",
    "consultoria de IA em 2027"
   ],
-  "takeaway": "O cliente nÃ£o quer ferramenta: quer saber por onde comeÃ§ar.",
-  "source": "https://ARCKHÉ AI",
-  "speech": "O seu prÃ³ximo cliente nÃ£o vai te pedir um agente. Ele vai te perguntar: por onde eu comeÃ§o? E se vocÃª responder falando de ferramenta, ele agradece, desliga e pergunta para o prÃ³prio ChatGPT. Neste vÃ­deo eu quero mostrar, na prÃ¡tica, o que Ã© consultoria de IA e como vocÃª se prepara agora para trabalhar com isso em 2027."
+  "takeaway": "O cliente nêo quer ferramenta: quer saber por onde começar.",
+  "source": "https://ARCKH� AI",
+  "speech": "O seu próximo cliente nêo vai te pedir um agente. Ele vai te perguntar: por onde eu começo? E se você responder falando de ferramenta, ele agradece, desliga e pergunta para o próprio ChatGPT. Neste vídeo eu quero mostrar, na prática, o que é consultoria de IA e como você se prepara agora para trabalhar com isso em 2027."
  },
  {
-  "chapter": "O que Ã©",
-  "title": "Consultoria nÃ£o Ã© vender ferramenta",
+  "chapter": "O que é",
+  "title": "Consultoria nêo é vender ferramenta",
   "kind": "compare",
   "labels": [
-   "nÃ£o Ã© vender ferramenta",
-   "nÃ£o Ã© montar chatbot",
-   "nÃ£o Ã© instalar o agente da moda",
-   "Ã© achar o problema que trava o resultado"
+   "nêo é vender ferramenta",
+   "nêo é montar chatbot",
+   "nêo é instalar o agente da moda",
+   "é achar o problema que trava o resultado"
   ],
-  "takeaway": "IA Ã© a caixa de ferramentas, nÃ£o a descriÃ§Ã£o do trabalho.",
-  "source": "https://eventos.ARCKHÉ.pro/consultoria-ia/",
-  "speech": "Consultoria de IA nÃ£o Ã© vender ferramenta. NÃ£o Ã© montar chatbot. E nÃ£o Ã© instalar o agente da moda. Consultoria Ã© entrar no negÃ³cio do cliente, achar o problema que realmente trava o resultado e prescrever a soluÃ§Ã£o mais simples que resolve. A IA Ã© a sua caixa de ferramentas. NÃ£o Ã© a descriÃ§Ã£o do seu trabalho."
+  "takeaway": "IA é a caixa de ferramentas, nêo a descriçêo do trabalho.",
+  "source": "https://eventos.ARCKH�.pro/consultoria-ia/",
+  "speech": "Consultoria de IA nêo é vender ferramenta. Nêo é montar chatbot. E nêo é instalar o agente da moda. Consultoria é entrar no negócio do cliente, achar o problema que realmente trava o resultado e prescrever a soluçêo mais simples que resolve. A IA é a sua caixa de ferramentas. Nêo é a descriçêo do seu trabalho."
  },
  {
-  "chapter": "Dois chapÃ©us",
+  "chapter": "Dois chapéus",
   "title": "Consultor e mentor",
   "kind": "compare",
   "labels": [
@@ -37,131 +37,131 @@
    "o que vai para o agente",
    "mentor: o cliente faz sozinho"
   ],
-  "takeaway": "Em 2027 vocÃª usa os dois chapÃ©us: consultor e mentor.",
-  "source": "https://eventos.ARCKHÉ.pro/consultoria-ia/",
-  "speech": "E em 2027 vocÃª vai usar dois chapÃ©us. O consultor diz o que fazer: qual processo mexer primeiro, o que vai para a pessoa, o que vai para o agente. O mentor faz o cliente conseguir fazer sozinho. Porque o cliente vai querer construir os prÃ³prios projetos com IA. VocÃª pode brigar contra isso, ou pode ser quem ajuda ele a construir certo. Quem ensina vira a referÃªncia dentro da empresa."
+  "takeaway": "Em 2027 você usa os dois chapéus: consultor e mentor.",
+  "source": "https://eventos.ARCKH�.pro/consultoria-ia/",
+  "speech": "E em 2027 você vai usar dois chapéus. O consultor diz o que fazer: qual processo mexer primeiro, o que vai para a pessoa, o que vai para o agente. O mentor faz o cliente conseguir fazer sozinho. Porque o cliente vai querer construir os próprios projetos com IA. Você pode brigar contra isso, ou pode ser quem ajuda ele a construir certo. Quem ensina vira a referência dentro da empresa."
  },
  {
-  "chapter": "MÃ©todo",
-  "title": "Passos 1 e 2: conversa e diagnÃ³stico",
+  "chapter": "Método",
+  "title": "Passos 1 e 2: conversa e diagnóstico",
   "kind": "steps",
   "labels": [
    "1. conversa: perguntas antes da ferramenta",
-   "tempo Â· dinheiro Â· erro Â· quem decide",
-   "2. diagnÃ³stico de uma pÃ¡gina",
+   "tempo · dinheiro · erro · quem decide",
+   "2. diagnóstico de uma página",
    "fica com a pessoa",
    "vai para um agente",
-   "automaÃ§Ã£o simples",
+   "automaçêo simples",
    "deixa de existir"
   ],
-  "takeaway": "Primeiro perguntas, depois um diagnÃ³stico de uma pÃ¡gina com quatro colunas.",
-  "source": "https://eventos.ARCKHÉ.pro/consultoria-ia/",
-  "speech": "EntÃ£o como Ã© uma consultoria na prÃ¡tica? Cinco passos. Primeiro: a conversa. Antes de qualquer ferramenta, perguntas. O que toma mais tempo da equipe? Onde o negÃ³cio perde dinheiro? Onde acontece mais erro? Quem decide o quÃª? Segundo: o diagnÃ³stico de uma pÃ¡gina. O processo, o gargalo e quatro colunas: isto fica com a pessoa, isto vai para um agente, isto Ã© automaÃ§Ã£o simples, e isto deveria deixar de existir."
+  "takeaway": "Primeiro perguntas, depois um diagnóstico de uma página com quatro colunas.",
+  "source": "https://eventos.ARCKH�.pro/consultoria-ia/",
+  "speech": "Entêo como é uma consultoria na prática? Cinco passos. Primeiro: a conversa. Antes de qualquer ferramenta, perguntas. O que toma mais tempo da equipe? Onde o negócio perde dinheiro? Onde acontece mais erro? Quem decide o quê? Segundo: o diagnóstico de uma página. O processo, o gargalo e quatro colunas: isto fica com a pessoa, isto vai para um agente, isto é automaçêo simples, e isto deveria deixar de existir."
  },
  {
-  "chapter": "MÃ©todo",
-  "title": "Passos 3 a 5: soluÃ§Ã£o, piloto, ensino",
+  "chapter": "Método",
+  "title": "Passos 3 a 5: soluçêo, piloto, ensino",
   "kind": "steps",
   "labels": [
-   "3. a soluÃ§Ã£o mais simples",
-   "automaÃ§Ã£o sem IA quando resolve",
+   "3. a soluçêo mais simples",
+   "automaçêo sem IA quando resolve",
    "4. piloto pequeno",
-   "critÃ©rio de sucesso combinado antes",
+   "critério de sucesso combinado antes",
    "5. ensinar e acompanhar",
-   "contrato que nÃ£o acaba na entrega"
+   "contrato que nêo acaba na entrega"
   ],
-  "takeaway": "SoluÃ§Ã£o simples, piloto com critÃ©rio combinado e acompanhamento mÃªs a mÃªs.",
-  "source": "https://eventos.ARCKHÉ.pro/consultoria-ia/",
-  "speech": "Terceiro: a soluÃ§Ã£o mais simples. Comece pela base. Se uma automaÃ§Ã£o sem IA resolve, Ã³timo: Ã© mais barata e mais confiÃ¡vel. Agente sÃ³ quando o problema exige. Quarto: um piloto pequeno, com o critÃ©rio de sucesso combinado antes de comeÃ§ar. Assim ninguÃ©m discute depois se deu certo. E quinto: ensinar e acompanhar. A equipe aprende a usar, vocÃª mede o resultado e ajusta mÃªs a mÃªs. Ã‰ aqui que nasce o contrato que nÃ£o acaba na entrega."
+  "takeaway": "Soluçêo simples, piloto com critério combinado e acompanhamento mês a mês.",
+  "source": "https://eventos.ARCKH�.pro/consultoria-ia/",
+  "speech": "Terceiro: a soluçêo mais simples. Comece pela base. Se uma automaçêo sem IA resolve, ótimo: é mais barata e mais confiável. Agente só quando o problema exige. Quarto: um piloto pequeno, com o critério de sucesso combinado antes de começar. Assim ninguém discute depois se deu certo. E quinto: ensinar e acompanhar. A equipe aprende a usar, você mede o resultado e ajusta mês a mês. �? aqui que nasce o contrato que nêo acaba na entrega."
  },
  {
   "chapter": "Exemplo",
-  "title": "A clÃ­nica que perde consultas",
+  "title": "A clínica que perde consultas",
   "kind": "diagram",
   "labels": [
    "problema: paciente falta",
-   "lembrete = automaÃ§Ã£o simples",
+   "lembrete = automaçêo simples",
    "remarcar = agente",
-   "encaixe = recepÃ§Ã£o decide",
-   "trÃªs peÃ§as no lugar certo"
+   "encaixe = recepçêo decide",
+   "três peças no lugar certo"
   ],
-  "takeaway": "Cada peÃ§a no lugar certo: automaÃ§Ã£o, agente e pessoa.",
-  "source": "https://eventos.ARCKHÉ.pro/consultoria-ia/",
-  "speech": "Um exemplo. Uma clÃ­nica reclama que perde consultas porque o paciente falta. A tentaÃ§Ã£o Ã© vender um agente de atendimento completo. Mas o diagnÃ³stico mostra outra coisa: o lembrete da consulta Ã© automaÃ§Ã£o simples, nÃ£o precisa de agente. O agente entra para conversar com quem quer remarcar. E o encaixe na agenda continua sendo decisÃ£o da recepÃ§Ã£o. TrÃªs peÃ§as, cada uma no lugar certo. Isso Ã© consultoria."
+  "takeaway": "Cada peça no lugar certo: automaçêo, agente e pessoa.",
+  "source": "https://eventos.ARCKH�.pro/consultoria-ia/",
+  "speech": "Um exemplo. Uma clínica reclama que perde consultas porque o paciente falta. A tentaçêo é vender um agente de atendimento completo. Mas o diagnóstico mostra outra coisa: o lembrete da consulta é automaçêo simples, nêo precisa de agente. O agente entra para conversar com quem quer remarcar. E o encaixe na agenda continua sendo decisêo da recepçêo. Três peças, cada uma no lugar certo. Isso é consultoria."
  },
  {
-  "chapter": "PreparaÃ§Ã£o",
+  "chapter": "Preparaçêo",
   "title": "Como se preparar: movimentos 1 a 3",
   "kind": "steps",
   "labels": [
    "1. escolha um setor",
    "como ele ganha e perde dinheiro",
-   "2. primeira consultoria em vocÃª mesmo",
+   "2. primeira consultoria em você mesmo",
    "3. monte o seu kit",
-   "perguntas Â· diagnÃ³stico Â· proposta"
+   "perguntas · diagnóstico · proposta"
   ],
-  "takeaway": "Setor, primeira consultoria sem cobrar e um kit prÃ³prio.",
-  "source": "https://eventos.ARCKHÉ.pro/consultoria-ia/",
-  "speech": "E como vocÃª se prepara? Cinco movimentos. Um: escolha um setor e aprenda como ele ganha e perde dinheiro. Dois: faÃ§a a primeira consultoria em vocÃª mesmo, ou num negÃ³cio que vocÃª conhece. Sem cobrar, para aprender. TrÃªs: monte o seu kit. Um roteiro de perguntas, um modelo de diagnÃ³stico de uma pÃ¡gina e um modelo de proposta."
+  "takeaway": "Setor, primeira consultoria sem cobrar e um kit próprio.",
+  "source": "https://eventos.ARCKH�.pro/consultoria-ia/",
+  "speech": "E como você se prepara? Cinco movimentos. Um: escolha um setor e aprenda como ele ganha e perde dinheiro. Dois: faça a primeira consultoria em você mesmo, ou num negócio que você conhece. Sem cobrar, para aprender. Três: monte o seu kit. Um roteiro de perguntas, um modelo de diagnóstico de uma página e um modelo de proposta."
  },
  {
-  "chapter": "PreparaÃ§Ã£o",
+  "chapter": "Preparaçêo",
   "title": "Como se preparar: movimentos 4 e 5",
   "kind": "steps",
   "labels": [
-   "4. aprenda gestÃ£o de agentes",
-   "objetivo Â· contexto Â· limites",
-   "avaliaÃ§Ã£o Â· supervisÃ£o",
-   "5. explique para quem nÃ£o Ã© tÃ©cnico",
-   "se o dono nÃ£o entende, nÃ£o compra"
+   "4. aprenda gestêo de agentes",
+   "objetivo · contexto · limites",
+   "avaliaçêo · supervisêo",
+   "5. explique para quem nêo é técnico",
+   "se o dono nêo entende, nêo compra"
   ],
-  "takeaway": "GestÃ£o de agentes e saber explicar para quem nÃ£o Ã© tÃ©cnico.",
+  "takeaway": "Gestêo de agentes e saber explicar para quem nêo é técnico.",
   "source": "https://linnoff88-dev.github.io/
-  "speech": "Quatro: aprenda gestÃ£o de agentes, porque Ã© isso que vocÃª vai ensinar ao cliente: objetivo, contexto, limites de autonomia, avaliaÃ§Ã£o e supervisÃ£o. E cinco: treine explicar tudo isso para quem nÃ£o Ã© tÃ©cnico. Se o dono do negÃ³cio nÃ£o entende o seu diagnÃ³stico, ele nÃ£o compra."
+  "speech": "Quatro: aprenda gestêo de agentes, porque é isso que você vai ensinar ao cliente: objetivo, contexto, limites de autonomia, avaliaçêo e supervisêo. E cinco: treine explicar tudo isso para quem nêo é técnico. Se o dono do negócio nêo entende o seu diagnóstico, ele nêo compra."
  },
  {
   "chapter": "Erros",
-  "title": "Os trÃªs erros que derrubam",
+  "title": "Os três erros que derrubam",
   "kind": "steps",
   "labels": [
-   "comeÃ§ar pela ferramenta",
+   "começar pela ferramenta",
    "prometer sem combinar a medida",
    "deixar o cliente dependente",
    "mentor bom deixa o cliente mais forte"
   ],
-  "takeaway": "Mentor bom deixa o cliente mais forte, nÃ£o mais dependente.",
-  "source": "https://ARCKHÉ AI",
-  "speech": "E fuja de trÃªs erros. ComeÃ§ar pela ferramenta. Prometer resultado sem combinar como vai medir. E fazer tudo pelo cliente, atÃ© ele depender de vocÃª para qualquer coisa. Mentor bom deixa o cliente mais forte, nÃ£o mais dependente."
+  "takeaway": "Mentor bom deixa o cliente mais forte, nêo mais dependente.",
+  "source": "https://ARCKH� AI",
+  "speech": "E fuja de três erros. Começar pela ferramenta. Prometer resultado sem combinar como vai medir. E fazer tudo pelo cliente, até ele depender de você para qualquer coisa. Mentor bom deixa o cliente mais forte, nêo mais dependente."
  },
  {
   "chapter": "Onde aprender",
-  "title": "Ãrea Consultoria de IA",
+  "title": "Área Consultoria de IA",
   "kind": "concept",
   "labels": [
-   "Ã¡rea Consultoria de IA",
+   "área Consultoria de IA",
    "curso Consultor de IA",
    "Do Zero ao Primeiro Cliente",
-   "GestÃ£o de Agentes",
+   "Gestêo de Agentes",
    "kit Raio-X de Margem",
    "aberto e gratuito"
   ],
-  "takeaway": "Tudo aberto e gratuito na Ã¡rea Consultoria de IA.",
-  "source": "https://eventos.ARCKHÉ.pro/consultoria-ia/",
-  "speech": "Para comeÃ§ar, nÃ³s montamos a Ã¡rea Consultoria de IA no eventos do ARCKHÉ. LÃ¡ estÃ£o os quatro papÃ©is, o mÃ©todo, o curso Consultor de IA, a formaÃ§Ã£o Do Zero ao Primeiro Cliente, o curso de GestÃ£o de Agentes e kits abertos para usar com o cliente, como o Raio-X de Margem, que mostra em reais onde o negÃ³cio perde dinheiro. Tudo aberto e gratuito, no ARCKHÉ ponto club."
+  "takeaway": "Tudo aberto e gratuito na área Consultoria de IA.",
+  "source": "https://eventos.ARCKH�.pro/consultoria-ia/",
+  "speech": "Para começar, nós montamos a área Consultoria de IA no eventos do ARCKH�. Lá estêo os quatro papéis, o método, o curso Consultor de IA, a formaçêo Do Zero ao Primeiro Cliente, o curso de Gestêo de Agentes e kits abertos para usar com o cliente, como o Raio-X de Margem, que mostra em reais onde o negócio perde dinheiro. Tudo aberto e gratuito, no ARCKH� ponto club."
  },
  {
   "chapter": "Fechamento",
   "title": "Comece esta semana",
   "kind": "cta",
   "labels": [
-   "o cliente terÃ¡ o mesmo agente",
-   "nÃ£o terÃ¡ clareza",
-   "perguntas certas + diagnÃ³stico de uma pÃ¡gina",
+   "o cliente terá o mesmo agente",
+   "nêo terá clareza",
+   "perguntas certas + diagnóstico de uma página",
    "comece esta semana",
-   "eventos.ARCKHÉ.pro/consultoria-ia"
+   "eventos.ARCKH�.pro/consultoria-ia"
   ],
-  "takeaway": "Seu primeiro trabalho: um diagnÃ³stico de uma pÃ¡gina.",
-  "source": "https://eventos.ARCKHÉ.pro/consultoria-ia/",
-  "speech": "Em 2027, o cliente vai ter o mesmo agente que vocÃª. O que ele nÃ£o vai ter Ã© clareza. Quem chega com as perguntas certas, um diagnÃ³stico de uma pÃ¡gina e paciÃªncia para ensinar, vira parceiro. EntÃ£o comece esta semana: escolha um negÃ³cio, faÃ§a as perguntas da conversa e escreva o diagnÃ³stico em uma pÃ¡gina. Esse Ã© o seu primeiro trabalho de consultoria."
+  "takeaway": "Seu primeiro trabalho: um diagnóstico de uma página.",
+  "source": "https://eventos.ARCKH�.pro/consultoria-ia/",
+  "speech": "Em 2027, o cliente vai ter o mesmo agente que você. O que ele nêo vai ter é clareza. Quem chega com as perguntas certas, um diagnóstico de uma página e paciência para ensinar, vira parceiro. Entêo comece esta semana: escolha um negócio, faça as perguntas da conversa e escreva o diagnóstico em uma página. Esse é o seu primeiro trabalho de consultoria."
  }
 ]
